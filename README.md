@@ -115,7 +115,7 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-![](2-screenshot-network-settings-1.png)
+![](https://github.com/freddy0706/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SET-UP/blob/938a6a7f1bed986384c82a8d6572174ca2da4532/kali%20network.png)
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
