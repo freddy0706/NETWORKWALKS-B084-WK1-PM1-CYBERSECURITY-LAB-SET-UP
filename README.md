@@ -299,7 +299,7 @@ This laboratory is intended strictly for education purposes only.
 **Akinwunmi Oluwaseun Fredrick**\
 Cybersecurity Professional B084
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+LinkedIn: [https://www.linkedin.com/in/akinwunmi-oluwasuen-fredrick-368624421](https://www.linkedin.com/in/akinwunmi-oluwasuen-fredrick-368624421)
 
 ---
 
