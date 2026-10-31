@@ -61,6 +61,13 @@ It can be used for activities such as:
 
 ---
 
+## 🏗️ Lab Architecture
+
+![]( kali1.png )
+
+
+Additional target machines can be added to the same virtual network in future projects.
+
 ## ⚙️ Lab Configuration
 
 | 🧩 Component       | ⚙️ Configuration   |
