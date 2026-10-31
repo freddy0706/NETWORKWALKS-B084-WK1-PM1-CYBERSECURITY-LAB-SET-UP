@@ -163,7 +163,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![](4-screenshot-kali-network-settings.png)
+![](https://github.com/freddy0706/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SET-UP/blob/8d9d9a73de46071337253806fd71bb9da51d540d/kali%20ip4.png)
 
 ---
 
@@ -256,29 +256,23 @@ The most important concepts I learned include:
 
 ### 1. NAT vs NAT Network
 
-A standard NAT configuration and a NAT Network serve different purposes.
-
-A NAT Network allows multiple VMs connected to the same virtual network to communicate with one another while providing network address translation for external connectivity.
-
-This makes it useful for building a multi-machine cybersecurity laboratory.
+I understood the architectural differences between standard NAT and a NAT Network. Configured an isolated NAT Network to enable inter-VM communication across target environments while maintaining secure outbound network address translation.
 
 ### 2. Virtual Machine Networking
 
-I learned how VirtualBox virtual network adapters connect virtual machines to different types of networks and how network configuration affects communication between machines.
+I gained practical experience managing VirtualBox network adapters (Host-Only, NAT, Internal) and analyzing how distinct network modes impact traffic isolation, routing, and machine-to-machine reachability.
 
 ### 3. Static IP Configuration
 
-I learned how to configure and verify IPv4 addressing, subnet masks, gateways, and DNS settings in Kali Linux.
+I configured and validated custom IPv4 addressing, subnet masks, default gateways, and DNS resolvers in Linux to ensure consistent network identities across lab components.
 
 ### 4. VM Snapshots
 
-I learned that a clean snapshot should be created **before performing risky or experimental activities**.
-
-This provides a known-good recovery point for future cybersecurity exercises.
+I established baseline recovery points using VirtualBox snapshots prior to testing or executing potential system-altering commands, ensuring seamless rollback to a known-good state.
 
 ### 5. Documentation
 
-I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
+I developed a systematic approach to logging terminal commands, network configurations, troubleshooting steps, and visual proofs, reinforcing industry best practices for security documentation and reporting.t.
 
 ---
 
