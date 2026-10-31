@@ -63,10 +63,12 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![]( kali1.png )
+![](https://github.com/freddy0706/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SET-UP/blob/cb687f3771c443d80a4349116971e7da19dc43fa/kali%201.png)
 
 
 Additional target machines can be added to the same virtual network in future projects.
+
+---
 
 ## ⚙️ Lab Configuration
 
@@ -100,13 +102,6 @@ Additional target machines can be added to the same virtual network in future pr
 ## Step 2. Install VirtualBox
 
 VirtualBox was installed as the hypervisor.
-
-## 🏗️ Lab Architecture
-
-![](https://github.com/freddy0706/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SET-UP/blob/cb687f3771c443d80a4349116971e7da19dc43fa/kali%201.png)
-
-
-Additional target machines can be added to the same virtual network in future projects.
 
 ---
 
